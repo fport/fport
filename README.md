@@ -1,5 +1,5 @@
-### Hi there 👋
-I am Furkan, a jr full-stack web developer and data science. I'm working freelance and build project for TEKNOFEST(it's a competition ⚡). 
+## Hi there 👋
+I am Furkan, a **jr full-stack web developer and data science**. I'm working freelance and build project for TEKNOFEST(it's a competition ⚡). 
 I use Python(Django), ReactJS, and more web development skills. I use Kaggle (https://www.kaggle.com/furkanportakal)
 If you want to contact me you can use these links
 <!--
