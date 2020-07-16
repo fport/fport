@@ -1,9 +1,12 @@
 ## Hi there 👋
 I am Furkan, a **jr full-stack web developer and data science**. 
   
-I'm working freelance and build project for ***TEKNOFEST***(it's a competition ⚡). I use Python(Django), ReactJS(loading...), and more web development skills. I use [Kaggle](https://www.kaggle.com/furkanportakal)     💬 I’m currently learning React JS, React Native.  
-📫 If you want to contact me you can use these links;  
-[Linkedin](https://www.linkedin.com/in/furkan-portakal)  
+I'm working freelance and build project for ***TEKNOFEST***(it's a competition ⚡).  
+I use Python(Django), ReactJS(loading...), and more web development skills.  
+I use [Kaggle](https://www.kaggle.com/furkanportakal)  
+💬 I’m currently learning React JS, React Native.   
+📫 If you want to contact me you can use these links;    
+:twitter:[Linkedin](https://www.linkedin.com/in/furkan-portakal)  
 [Twitter](https://twitter.com/portiiiix)  
 <!--
 **FurkanPortakal/furkanportakal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
