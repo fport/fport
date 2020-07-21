@@ -6,7 +6,7 @@ I use [Kaggle](https://www.kaggle.com/furkanportakal) for Artificial Intelligenc
 💬 I’m currently learning React JS, React Native.   
 📫 If you want to contact me you can use these links;    
 <p align='center'>
-<a href="https://twitter.com/porrtiiiix"><img height="30" src="https://github.com/furkanportakal/furkanportakal/blob/master/icons/tw.svg"></a>&nbsp;&nbsp;
+<a href="https://twitter.com/portiiiix"><img height="30" src="https://github.com/furkanportakal/furkanportakal/blob/master/icons/tw.svg"></a>&nbsp;&nbsp;
 <a href="https://instagram.com/porrtiiii"><img height="30" src="https://github.com/furkanportakal/furkanportakal/blob/master/icons/insta.svg"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/furkan-portakal"><img height="30" src="https://github.com/furkanportakal/furkanportakal/blob/master/icons/in.svg"></a>&nbsp;&nbsp;
 <a href="https://www.porticode.com"><img height="30" src="https://github.com/furkanportakal/furkanportakal/blob/master/icons/web.svg"></a>
