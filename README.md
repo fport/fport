@@ -12,8 +12,6 @@ I use [Kaggle](https://www.kaggle.com/furkanportakal) for Artificial Intelligenc
 <a href="https://www.porticode.com"><img height="30" src="https://github.com/furkanportakal/furkanportakal/blob/master/icons/web.svg"></a>
 </p>
 
-[Linkedin](https://www.linkedin.com/in/furkan-portakal)  
-[Twitter](https://twitter.com/portiiiix)  
 <!--
 **FurkanPortakal/furkanportakal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
