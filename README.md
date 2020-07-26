@@ -1,10 +1,11 @@
 ## Hi there 👋
 ⚡ I am Furkan, a **jr full-stack web developer and data science**. 
   
-I'm working freelance and build project for ***TEKNOFEST***(it's a competition ⚡).I use Python(Django), ReactJS(loading...), and more web development skills.  
-I use [Kaggle](https://www.kaggle.com/furkanportakal) for Artificial Intelligence.  
-Computer science education continues at Bursa Technical University.  
-I’m currently learning 💬 React JS, React Native.   
+⚡ I am Furkan, a jr front end web developer and data science. I'm build project for **TEKNOFEST**(it's a competition ) . I had the opportunity to lead artificial intelligence in the construction of the VTOL aircraft. I have more web development skills. I’m currently learning 💬 React JS
+
+• Outstanding individual contributor and a fantastic team player; illustrates the true meaning of teamwork, creates good, long-lasting relationships with others along the way.
+•Freelancer is skilled in project making
+•Computer science education continues at Bursa Technical University.   
 📫 If you want to contact me you can use these links;    
 <p align='center'>
 <a href="https://twitter.com/portiiiix"><img height="30" src="https://github.com/furkanportakal/furkanportakal/blob/master/icons/tw.svg"></a>&nbsp;&nbsp;
