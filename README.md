@@ -12,7 +12,9 @@
 <a href="https://twitter.com/portiiiix"><img height="30" src="https://github.com/furkanportakal/furkanportakal/blob/master/icons/tw.svg"></a>&nbsp;&nbsp;
 <a href="https://instagram.com/porrtiiii"><img height="30" src="https://github.com/furkanportakal/furkanportakal/blob/master/icons/insta.svg"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/furkan-portakal"><img height="30" src="https://github.com/furkanportakal/furkanportakal/blob/master/icons/in.svg"></a>&nbsp;&nbsp;
+<a href="https://dev.to/furkanportakal"><img height="30" src="https://github.com/furkanportakal/furkanportakal/blob/master/icons/dev.svg"></a>&nbsp;&nbsp;
 <a href="https://www.porticode.com"><img height="30" src="https://github.com/furkanportakal/furkanportakal/blob/master/icons/web.svg"></a>
+  
 </p>
 
 <!--
