@@ -1,6 +1,6 @@
 ## Hi there 👋
-⚡ I am Furkan, a **jr full-stack web developer and data science**.I'm build project for **TEKNOFEST**(it's a competition ) . I had the opportunity to lead artificial intelligence in the construction of the VTOL aircraft. I have more web development skills.  
-🌱I’m currently learning React JS.
+⚡ I am Furkan, a **software engineer and data scientist**.I'm build project for **TEKNOFEST**(it's a competition ) . I had the opportunity to lead artificial intelligence in the construction of the VTOL aircraft. I have more web development skills.  
+🌱I’m currently learning JavaScript.
 
 • Outstanding individual contributor and a fantastic team player; illustrates the true meaning of teamwork, creates good, long-lasting relationships with others along the way.  
 •Freelancer is skilled in project making.  
