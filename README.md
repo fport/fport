@@ -1,4 +1,15 @@
-## Hi there 👋
+<p align="left"> 
+    <img src="https://komarev.com/ghpvc/?username=FurkanPortakal" alt="FurkanPortakal" />
+    <img src="https://img.shields.io/github/stars/FurkanPortakal/FurkanPortakal?style=social" />
+    <img src="https://img.shields.io/github/watchers/FurkanPortakal/FurkanPortakal?style=social" />
+    <img src="https://img.shields.io/github/size/FurkanPortakal/FurkanPortakal/README.md" />
+    <img src="https://img.shields.io/github/last-commit/FurkanPortakal/FurkanPortakal" />
+    <img src="https://img.shields.io/github/contributors/FurkanPortakal/FurkanPortakal" />   
+    <img src="https://badge.fury.io/gh/FurkanPortakal%2FFurkanPortakal.svg" />  
+    
+</p>
+
+## Hi 🖐🏼
 ⚡ I am Furkan, a **software engineer and data scientist**.I'm build project for **TEKNOFEST**(it's a competition ) . I had the opportunity to lead artificial intelligence in the construction of the VTOL aircraft. I have more web development skills.  
 🌱I’m currently learning JavaScript.
 
