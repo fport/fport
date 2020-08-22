@@ -36,7 +36,12 @@
 <a href="https://medium.com/t%C3%BCrkiye/nedir-bu-lorem-ipsum-740862672210">• What does Lorem Ipsum mean ?</a>  <br>
 <a href="https://medium.com/@furkanportakal">➡️ more blog posts...</a>
 
+## &#x1f4c8; My GitHub Stats
 
+
+<a href="https://github.com/FurkanPortakal">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=FurkanPortakal&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="mertbozkir's GitHub Stats" />
+</a>
 
 
 <!--
