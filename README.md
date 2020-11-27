@@ -44,7 +44,7 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" /> <br><br>
 <h5>📕 Latest Blog Posts</h5>
 <a href="https://medium.com/@furkanportakal/nedir-bunlar%C4%B1n-farklar%C4%B1-ead24905f9c">• Undefined and Null</a> <br> 
-<a href="https://medium.com/t%C3%BCrkiye/nedir-bu-lorem-ipsum-740862672210">• What does Lorem Ipsum mean ?</a>  <br>
+<a href="https://medium.com/kodcular/frontend-developer-yolculu%C4%9Fu-a1c7d86169d3">• My Frontend Roadmap</a>  <br>
 <a href="https://medium.com/@furkanportakal">➡️ more blog posts...</a>
 
 ## &#x1f4c8; My GitHub Stats
