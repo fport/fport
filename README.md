@@ -10,8 +10,8 @@
 </p>
 
 ## Hi 🖐🏼
-⚡ I am Furkan, a **software engineer and data scientist**.I'm build project for **TEKNOFEST**(it's a competition ) . I had the opportunity to lead artificial intelligence in the construction of the VTOL aircraft. I have more web development skills.  
-🌱I’m currently learning JavaScript.
+⚡ I am Furkan, a **software engineer and data scientist**.I'm build project for **TUBITAK**(it's a processing ). I have more web development skills.  
+🌱I’m currently learning NodeJs, GAN, NLP.
 
 • Outstanding individual contributor and a fantastic team player; illustrates the true meaning of teamwork, creates good, long-lasting relationships with others along the way.  
 •Freelancer is skilled in project making.  
@@ -51,7 +51,7 @@
 
 
 <a href="https://github.com/FurkanPortakal">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=FurkanPortakal&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="mertbozkir's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=FurkanPortakal&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="furkanportakal's GitHub Stats" />
 </a>
 
 
