@@ -3,7 +3,7 @@
 # 🚀Hello Devs
 
 ## 😎 Furkan's Github Profile
-I am Furkan, future frontend developer.I mostly use React & NodeJS in my side projects.
+I am Furkan, future frontend developer.I mostly use React & Firebase in my side projects.
 You can check out some of my projects and if you got any questions you can reach out in the links below.  
 🌱I’m currently learning NodeJs, GAN, NLP.
 
