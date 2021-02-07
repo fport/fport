@@ -3,13 +3,13 @@
 # 🚀Hello Devs
 
 ## 😎 Furkan's Github Profile
-I am Furkan, future frontend developer.I mostly use React & Firebase in my side projects.
+I am Furkan, software engineer.I mostly use MERN stack in my side projects.
 You can check out some of my projects and if you got any questions you can reach out in the links below.  
-🌱I’m currently learning NodeJs, GAN, NLP.
+🌱I’m currently learning GAN, NLP.
 
 ## 📌 What programming languages I like
 
-As a frontend developer most of my time I write JavaScript. But in my free time I am trying to build some projects in the backend as well. And when it comes to backend I like to organize my code. Because of that I like NodeJs as well.  
+As a software engineer most of my time I write JavaScript. But in my free time I am trying to build some projects in the backend as well. And when it comes to backend I like to organize my code. Because of that I like NodeJs as well.  
   
 <h5>📌Languages and Tools</h5>
 <img align="left" alt="GitHub" width="26px" src="https://camo.githubusercontent.com/1734137a535b70cd7e4c939eb87d1b5fbbf1e55b/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f392f39662f56696d6c6f676f2e737667" />
@@ -28,17 +28,17 @@ As a frontend developer most of my time I write JavaScript. But in my free time 
 
 ## ⭐ Some of my projects
 
+- [Open Source Place](https://github.com/opensource-place/frontend) - **Recommended** ✨
 - [Clone İnstagram  React Projects](https://github.com/FurkanPortakal/instagram-clone) - **Recommended** ✨
-- [Mergen UAV Website App](https://github.com/FurkanPortakal/mergen-web) - **Recommended** ✨
-- [Mythology-tech](https://github.com/FurkanPortakal/mythology-tech)
+- [Mergen UAV Website App](https://github.com/FurkanPortakal/mergen-web) 
 - [2D Game with JavaScript](https://github.com/FurkanPortakal/hoppala-app)
 
 ## 📃 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Undefined and Null](https://medium.com/@furkanportakal/nedir-bunlar%C4%B1n-farklar%C4%B1-ead24905f9c)
-- [React Beginner Tutorial](https://teknikafa.com/reactjs-ogrenelim/)
 - [My Frontend Roadmap](https://medium.com/kodcular/frontend-developer-yolculu%C4%9Fu-a1c7d86169d3)
+- [React Beginner Tutorial](https://teknikafa.com/reactjs-ogrenelim/)
+- [Undefined and Null](https://medium.com/@furkanportakal/nedir-bunlar%C4%B1n-farklar%C4%B1-ead24905f9c)
 
 <!-- BLOG-POST-LIST:END -->
 
