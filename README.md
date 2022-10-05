@@ -27,6 +27,7 @@ As a frontend developer most of my time I coding with JavaScript. But in my free
 
 ## 🥳 Some of my projects
 
+- ✨ [React SSR Boilerplate](https://github.com/fport/react-ssr-boilerplate) 
 - ✨ [Open Source Place](https://github.com/opensource-place/frontend) 
 - ✨ [Spacez Link](https://github.com/fport/spacez-link) 
 - ✨ [Readpad](https://readpad-ui.vercel.app/) 
