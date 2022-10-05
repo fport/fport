@@ -1,34 +1,37 @@
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=fport&show_icons=true&theme=dracula">
-
-# 🚀Hello Devs
+# 🧌 Hi Code Monsters 
 
 ## 🍊 Furkan 's Github Profile
-I am Furkan, frontend developer at Protein Tech. I mostly use MERN stack in my side projects.
+I am Furkan, frontend developer at Pargali. I mostly use JavaScript and JavaScript framework.
 You can check out some of my projects and if you got any questions you can reach out in the links below.  
 
 ## 💫 What programming languages I like
 
 As a frontend developer most of my time I coding with JavaScript. But in my free time I am trying to build some projects in the backend as well. And when it comes to backend I like to organize my code. Because of that I like Node.js as well.  
   
-<h5>⭐️Languages and Tools</h5>
+## 🔧 Technologies & Tools
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript) 
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Redux](https://img.shields.io/badge/-Redux-black?style=flat-square&logo=Redux) 
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=Node.js) 
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=MongoDB) 
-![Vue.js](https://img.shields.io/badge/-Vue.js-black?style=flat-square&logo=vue.js)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
-![GitLab](https://img.shields.io/badge/-GitLab-black?style=flat-square&logo=gitlab)
-![Bash](https://img.shields.io/badge/-Bash-black?style=flat-square&logo=gnu-bash)
+![](https://img.shields.io/badge/-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/-VSC-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/-VSC-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/JS-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/TS-informational?style=flat&logo=typescript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Nest-informational?style=flat&logo=nestjs&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Node-informational?style=flat&logo=node.js&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Vue-informational?style=flat&logo=vue.js&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/MySQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/PgSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Mongo-informational?style=flat&logo=mongodb&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Redis-informational?style=flat&logo=redis&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/-AWS-informational?style=flat&logo=amazon&logoColor=white&color=2bbc8a)
 
 ## 🥳 Some of my projects
 
-- [Open Source Place](https://github.com/opensource-place/frontend) - **Recommended** ✨
-- [Elizim E-Commerce App](https://github.com/fport/elizim) - **Recommended** ✨
-- [Dava-Takip](https://github.com/fport/dava-takip-backend) 
+- ✨ [Open Source Place](https://github.com/opensource-place/frontend) 
+- ✨ [Spacez Link](https://github.com/fport/spacez-link) 
+- ✨ [Readpad](https://readpad-ui.vercel.app/) 
 
 ## 📃 Latest Blog Posts
 
