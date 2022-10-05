@@ -1,6 +1,4 @@
 # 🧌 Hi Code Monsters 
-
-## 🍊 Furkan 's Github Profile
 I am Furkan, frontend developer at Pargali. I mostly use JavaScript and JavaScript framework.
 You can check out some of my projects and if you got any questions you can reach out in the links below.  
 
