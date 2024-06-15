@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://apihustle.com">
-    <img src="https://raw.githubusercontent.com/fport/fport/master/head.svg" width="800" height="auto">
+    <img src="https://raw.githubusercontent.com/fport/fport/064b8378c6bb4397c208fda377025fd07f88c8c7/head.svg" width="800" height="auto">
   </a>
 </div>
 
@@ -8,7 +8,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/furkanportakal)
 [![Mail Badge](https://img.shields.io/badge/email-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:furkanportakalx@gmail.com)](mailto:furkanportakalx@gmail.com)
-[![Twitter Badge](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/furkanportakalx)
+[![Twitter Badge](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/getporti)
 [![Github Badge](https://img.shields.io/badge/github-333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fport)
 
 </div>
