@@ -1,0 +1,86 @@
+<svg fill="none" viewBox="0 0 800 400" width="800" height="400"
+     xmlns="http://www.w3.org/2000/svg">
+    <foreignObject width="100%" height="100%">
+        <div style="width: 100%; height: 100%;" xmlns="http://www.w3.org/1999/xhtml">
+            <style>
+                @keyframes bg {
+                0%{background-position:4% 0%}
+                50%{background-position:97% 100%}
+                100%{background-position:4% 0%}
+                }
+
+                @keyframes fadeIn {
+                0% {
+                opacity: 0;
+                }
+                66% {
+                opacity: 0;
+                }
+                100% {
+                opacity: 1;
+                }
+                }
+
+                .container {
+                font-family:
+                Roboto,
+                Helvetica,
+                Arial,
+                sans-serif,
+                'Apple Color Emoji',
+                'Segoe UI Emoji',
+                'Noto Color Emoji';
+                display: flex;
+                flex-direction: column;
+                align-items: center;
+                justify-content: center;
+                margin: 0;
+                width: 100%;
+                height: 400px;
+                background: linear-gradient(180deg, #444444, #222222, #fb7379);
+                background-size: 1200% 1200%;
+                animation: bg 50s cubic-bezier(0.32, 0, 0.67, 0) infinite;
+                border-radius: 10px;
+                color: white;
+                text-align: center;
+                text-shadow: 0 0 3px rgba(0, 0, 0, .4);
+                }
+
+                span {
+                font-size: 30px;
+                line-height: 1.3;
+                font-weight: 300;
+                animation: 1s ease 0s normal forwards 1 fadeIn;
+                }
+
+                h1 {
+                font-size: 24px;
+                line-height: 1.3;
+                font-weight: 300;
+                animation: 2s ease 0s normal forwards 1 fadeIn;
+                }
+
+                p {
+                font-size: 14px;
+                font-weight: 400;
+                animation: 5s ease 0s normal forwards 1 fadeIn;
+                }
+
+                .linkLike {
+                color: white;
+                text-decoration: underline;
+                transition: 0.5s color ease;
+                }
+
+                .linkLike:hover {
+                color: gray;
+                }
+            </style>
+            <div class="container">
+                <span>./🍊</span>
+                <h1>developer and product of things</h1>
+                <p>You can check out some of my projects and if you got <br/> any questions you can reach out in the links below.</p> <br/>
+            </div>
+        </div>
+    </foreignObject>
+</svg>
