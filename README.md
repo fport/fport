@@ -1,7 +1,5 @@
 <div align="center">
-  <a href="https://apihustle.com">
     <img src="https://raw.githubusercontent.com/fport/fport/064b8378c6bb4397c208fda377025fd07f88c8c7/head.svg" width="800" height="auto">
-  </a>
 </div>
 
 <div align="center">
