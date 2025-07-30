@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://raw.githubusercontent.com/fport/fport/064b8378c6bb4397c208fda377025fd07f88c8c7/head.svg" width="800" height="auto">
+    <img src="https://raw.githubusercontent.com/fport/fport/refs/heads/master/head.svg" width="800" height="auto">
 </div>
 
 <div align="center">
