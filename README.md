@@ -1,9 +1,5 @@
-<div align="center">
-    <img src="https://raw.githubusercontent.com/fport/fport/refs/heads/master/banner.svg" width="800" height="auto">
-</div>
 
-
-## 💫 About Me
+## ./🍊 
 
 I'm a full-stack engineer, frontend-leaning by background, who builds products end-to-end — from the database and API to the UI, all in TypeScript. Lately I spend a lot of that time on AI-native features: agent loops, tool-calling, and LLM orchestration. I like to understand these things from first principles rather than just wiring up a library, and I approach my work with a product mindset — putting on that hat and building things that solve real problems.
 
